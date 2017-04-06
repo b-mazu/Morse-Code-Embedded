@@ -1,7 +1,7 @@
 Morse Code Embedded
 ==========
 
-Created by using BASCOM language. 
+Old college project created by using BASCOM language. 
 For more info please check "Alfabet Morsa - Dokumentacja.pdf".
 
 
